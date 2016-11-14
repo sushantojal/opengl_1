@@ -1,0 +1,4 @@
+﻿  main.cpp
+main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  ping.vcxproj -> D:\sushant\OpenGL material\ping\Debug\ping.exe
+  ping.vcxproj -> D:\sushant\OpenGL material\ping\Debug\ping.pdb (Full PDB)
